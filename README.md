@@ -1,4 +1,4 @@
-![image](https://github.com/dario208/dario208/assets/124611899/9fa96350-c4d8-4284-adba-4385f54bad9c)![devops](https://miro.medium.com/v2/resize:fit:828/format:webp/1*DluPjzT_eTUFdzHCI7JBZA.gif)
+![image](https://github.com/dario208/dario208/assets/124611899/9fa96350-c4d8-4284-adba-4385f54bad9c)![devops]([https://miro.medium.com/v2/resize:fit:828/format:webp/1*DluPjzT_eTUFdzHCI7JBZA.gif](https://www.shutterstock.com/image-vector/concept-devops-illustrates-communication-collaboration-600nw-581136349.jpg))
 
 
 # 💫 About Me:
