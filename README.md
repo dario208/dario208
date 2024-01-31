@@ -16,7 +16,7 @@ Programming language: <br>
 
 Front-end: <br>
 <br>
-  [![My Skills](https://skillicons.dev/icons?i=react,next,threejs,tailwind,bootstrap,vite)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vite)](https://skillicons.dev)
 <br>
 Back-end: <br>
 <br>
