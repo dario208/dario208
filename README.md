@@ -13,15 +13,14 @@
 # 💻 Tech Stack:
 
 Programming language: <br>
-<br>
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+
 Front-end: <br>
 <br>
-  [![My Skills](https://skillicons.dev/icons?i=react,next,threejs,tailwind,bootstrap,vite&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,next,threejs,tailwind,bootstrap,vite)](https://skillicons.dev)
 <br>
 Back-end: <br>
 <br>
-  [![My Skills](https://skillicons.dev/icons?i=express,nestjs&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=express,nestjs)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dario208&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dario208&theme=nightowl&hide_border=false)<br/>
