@@ -12,6 +12,9 @@
 
 # 💻 Tech Stack:
 
+Programming language: <br>
+<br>
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 Front-end: <br>
 <br>
   [![My Skills](https://skillicons.dev/icons?i=react,next,threejs,tailwind,bootstrap,vite&theme=light)](https://skillicons.dev)
