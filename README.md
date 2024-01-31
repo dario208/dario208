@@ -21,9 +21,11 @@ Front-end: <br>
 Back-end: <br>
 <br>
   [![My Skills](https://skillicons.dev/icons?i=express,nestjs)](https://skillicons.dev)
+<br>
 Database: <br>
 <br>
   [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+<br>
 Tools: <br>
 <br>
   [![My Skills](https://skillicons.dev/icons?i=github,codepen,linux,vscode,figma)](https://skillicons.dev)
