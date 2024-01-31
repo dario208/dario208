@@ -1,4 +1,4 @@
-![image](https://github.com/dario208/dario208/assets/124611899/b74ad773-4fdd-46e4-b460-d3bfbe8725f8)
+![image](https://github.com/dario208/dario208/assets/124611899/c0e4c13b-6837-4e64-8ee9-4ce978339cd2)
 
 
 
