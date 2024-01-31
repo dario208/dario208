@@ -13,7 +13,10 @@
 # 💻 Tech Stack:
 Front-end: <br>
 <br>
-  [![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vite&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,next,threejs,tailwind,bootstrap,vite&theme=light)](https://skillicons.dev)
+Back-end: <br>
+<br>
+  [![My Skills](https://skillicons.dev/icons?i=express,nestjs,tailwind,bootstrap,vite&theme=light)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dario208&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dario208&theme=nightowl&hide_border=false)<br/>
