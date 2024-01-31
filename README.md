@@ -11,7 +11,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100013159054623) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tsiahouadario) 
 
 # 💻 Tech Stack:
-Front-end: 
+Front-end: <br>
   [![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vite&theme=light)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dario208&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
