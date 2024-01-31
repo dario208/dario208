@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![Alt Text](https://miro.medium.com/v2/resize:fit:828/format:webp/1*DluPjzT_eTUFdzHCI7JBZA.gif)
 
 
 # 💫 About Me:
