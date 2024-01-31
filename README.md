@@ -11,13 +11,17 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100013159054623) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tsiahouadario) 
 
 # 💻 Tech Stack:
+<br>
+Programming language: <br>
+<br>
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 Front-end: <br>
 <br>
   [![My Skills](https://skillicons.dev/icons?i=react,next,threejs,tailwind,bootstrap,vite&theme=light)](https://skillicons.dev)
 <br>
 Back-end: <br>
 <br>
-  [![My Skills](https://skillicons.dev/icons?i=express,nestjs,tailwind,bootstrap,vite&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=express,nestjs&theme=light)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dario208&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dario208&theme=nightowl&hide_border=false)<br/>
