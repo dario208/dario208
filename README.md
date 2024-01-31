@@ -21,6 +21,12 @@ Front-end: <br>
 Back-end: <br>
 <br>
   [![My Skills](https://skillicons.dev/icons?i=express,nestjs)](https://skillicons.dev)
+Database: <br>
+<br>
+  [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+Tools: <br>
+<br>
+  [![My Skills](https://skillicons.dev/icons?i=github,codepen,linux,vscode,figma)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dario208&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dario208&theme=nightowl&hide_border=false)<br/>
