@@ -1,10 +1,10 @@
-![image](https://github.com/dario208/dario208/assets/124611899/c0e4c13b-6837-4e64-8ee9-4ce978339cd2)
+
 
 
 
 
 # 💫 About Me:
-👨‍💻Développeur web autodidacte👨‍💻<br>👨🏽‍🎓Étudiant networking and système👨🏽‍🎓<br>🔍Currently looking for a work-study position🔍 <br>🤝Passionate about information technology🤝
+👨‍💻Web Developer 👨‍💻<br>👨🏽‍🎓Étudiant networking and système👨🏽‍🎓<br>🔍Currently looking for a work-study position🔍 <br>🤝Passionate about information technology🤝
 
 
 ## 🌐 Socials:
@@ -16,12 +16,9 @@ Programming language: <br>
 
 Front-end: <br>
 <br>
-  [![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vite)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=next,tailwind,vite)](https://skillicons.dev)
 <br>
-Back-end: <br>
-<br>
-  [![My Skills](https://skillicons.dev/icons?i=express,nestjs)](https://skillicons.dev)
-<br>
+
 Database: <br>
 <br>
   [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
