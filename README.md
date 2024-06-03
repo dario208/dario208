@@ -7,9 +7,6 @@
 👨‍💻Web Developer 👨‍💻<br>👨🏽‍🎓Étudiant networking and système👨🏽‍🎓<br>🔍Currently looking for a work-study position🔍 <br>🤝Passionate about information technology🤝
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100013159054623) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tsiahouadario) 
-
 # 💻 Tech Stack:
 
 Programming language: <br>
