@@ -18,7 +18,7 @@ Front-end: <br>
 
 Database: <br>
 <br>
-  [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=postgresql,mysql)](https://skillicons.dev)
 <br>
 Tools: <br>
 <br>
