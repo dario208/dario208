@@ -35,10 +35,19 @@ I'm currently an apprentice in **DevOps** and **Web Development**, passionate ab
 
 ---
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dario208&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dario208&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dario208&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=radical)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dario208&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=dario208&label=Profile%20Views&color=9&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Footer -->
 ![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
