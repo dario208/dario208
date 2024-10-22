@@ -4,7 +4,7 @@
   
 
 <div align="center">
-  ### About Me
+  
   <h2> Welcome to my GitHub profile 👋 </h2>
         
   <!-- Typing SVG -->
