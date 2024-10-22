@@ -12,8 +12,9 @@
 </div>
 
 ### About Me
+<div align="center">
 <a href="https://app.daily.dev/dario208"><img src="https://api.daily.dev/devcards/v2/xBOZK2SCP2LpV2hvmMvwy.png?type=wide&r=tyq" width="652" alt="TSIAHOUA Feno Dario Dasylva's Dev Card"/></a>
-
+</div>
 ---
 
 ### Tech Stack
