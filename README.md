@@ -4,18 +4,20 @@
   
 
 <div align="center">
-  
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=007BFF&center=true&vCenter=true&width=435&lines=Mbolatsaraee%2C+I'm+dario208!+;DevOps+Apprentice+;And+Web+Developer" alt="Typing SVG" />
-  
   <h2> Welcome to my GitHub profile 👋 </h2>
+  <!-- Typing SVG -->
+  <a href="https://app.daily.dev/dario208"><img src="https://api.daily.dev/devcards/v2/xBOZK2SCP2LpV2hvmMvwy.png?type=wide&r=tyq" width="652" alt="TSIAHOUA Feno Dario Dasylva's Dev Card"/></a>
+  
+  
+  
 </div>
 
 ### About Me
 <div align="center">
-<a href="https://app.daily.dev/dario208"><img src="https://api.daily.dev/devcards/v2/xBOZK2SCP2LpV2hvmMvwy.png?type=wide&r=tyq" width="652" alt="TSIAHOUA Feno Dario Dasylva's Dev Card"/></a>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=007BFF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+dario208!+;DevOps+Apprentice+;And+Web+Developer" alt="Typing SVG" />
 </div>
----
+
 
 ### Tech Stack
 
