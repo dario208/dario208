@@ -23,7 +23,7 @@
 
 #### DevOps Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,docker,rabbitmq,grafana" alt="DevOps Tools" />
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,docker,rabbitmq,grafana,influxdb,kubernets" alt="DevOps Tools" />
 </p>
 
 #### Backend
