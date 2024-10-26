@@ -33,7 +33,7 @@
 
 #### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Frontend Tools" />
+  <img src="https://skillicons.dev/icons?i=nextjs,reactjs,tailwindcss" alt="Frontend Tools" />
 </p>
 
 ---
