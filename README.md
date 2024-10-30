@@ -28,7 +28,7 @@
 
 #### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,nestjs,postgresql,mongodb" alt="Backend Tools" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,postgresql,mongodb" alt="Backend Tools" />
 </p>
 
 #### Frontend
