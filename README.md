@@ -18,7 +18,7 @@
 </br>
 
 
-* ✉️  You can contact me at [dario22.aps2b@gmail.com](mailto:dario22.aps2b@gmail.com)
+
 
 
 ### Tech Stack
