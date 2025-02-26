@@ -21,19 +21,19 @@
 
 
 
-### Tech Stack
+## Tech Stack
 
-#### DevOps Tools
+### DevOps Tools
 <p>
   <img src="https://skillicons.dev/icons?i=jenkins,githubactions,docker,rabbitmq,grafana,influxdb,kubernets" alt="DevOps Tools" />
 </p>
 
-#### Backend
+### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,django,postgresql,mongodb" alt="Backend Tools" />
 </p>
 
-#### Frontend
+### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwindcss" alt="Frontend Tools" />
 </p>
