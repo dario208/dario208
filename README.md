@@ -9,7 +9,7 @@
         
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=007BFF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+dario208!+;DevOps+Apprentice+;And+Web+Developer" alt="Typing SVG" />
- <a href="https://app.daily.dev/dario208"><img src="https://api.daily.dev/devcards/v2/xBOZK2SCP2LpV2hvmMvwy.png?type=default&r=ml8" width="356" alt="TSIAHOUA Feno Dario Dasylva's Dev Card"/></a>
+ <a href="https://app.daily.dev/dario208"><img src="https://api.daily.dev/devcards/v2/xBOZK2SCP2LpV2hvmMvwy.png?type=wide&r=ml8" width="652" alt="TSIAHOUA Feno Dario Dasylva's Dev Card"/></a>
   
   
   
